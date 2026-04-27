@@ -4,22 +4,22 @@
 Telegram UserBot with GUI. Modular commands.
 
 ## Features
-- 2 languages (RU/EN)
+- 2 languages (RU/EN/UK)
 - Modular system (You can delete any team, edit, create your own)
 
 ## Installation 
 Linux -
-1.Install Python
-2.Download Archive 
-3. cd /to directory/ 
-4.python -m pip install telethon gtts psutil pillow requests --break-system-packages 
-5. Running python main.py 
+1.Download Archive 
+2.cd /to directory/ 
+3.chmod +x install.sh
+4. ./install.sh (Chouse you os)
+5.chmod +x run.sh
+6. ./run.sh
 Windows - 
-1.Install Python 
-2. Download the archive 
-3.Go to the cd path directory 
-4.pip install -r requerimients.txt 
-5. Running python main.py
+1. Download the archive 
+2.Go to the cd path directory 
+3.run install.bat
+4.run run.bat
 
 Developers: Avebas: https://t.me/avebas, LinuxMintReal (without social networks)
 # Ru
@@ -28,21 +28,20 @@ Developers: Avebas: https://t.me/avebas, LinuxMintReal (without social networks)
 Telegram UserBot с графическим интерфейсом. Модульные команды.
 
 ## Возможности
-- 2 языка (RU/EN)
+- 2 языка (RU/EN/UK)
 - Модульная система (Вы можете удалить любую команду, редактировать, создать свою)
 
 ## Установка
 Linux - 
-1.Установить Python
-2.Скачать Архив 
-3. cd /к директории/
-4.python -m pip install -r requerimients.txt --break-system-packages
-5.Запуск python main.py
+1. Скачать архив
+2. cd /в дерикторию/
+3. chmod +x install.sh
+4. ./install.sh (Выберите свой дестребутив)
+5. chmod +x run.sh
+6. ./run.sh
 Windows -
-1.Установить Python
-2.Скачать архив
-3.Перейдите в директорию cd путь
-4.pip install -r requerimients.txt
-5.Запуск python main.py
-
+1. Скачать архив
+2. Откройте распакованую папку
+3. Запустите install.bat
+4. Запустите run.bat
 Разработчики: Avebas: https://t.me/avebas, LinuxMintReal (без социальных сетей)
